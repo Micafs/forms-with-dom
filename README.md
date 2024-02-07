@@ -1,4 +1,4 @@
-# Forms whit DOM
+# Forms with DOM
 
 En el siguiente proyecto ()
 practicar formularios/ manipular dom y maquetar/mobile first
